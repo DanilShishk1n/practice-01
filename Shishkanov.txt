@@ -1,0 +1,41 @@
+commit 477be45d6d7b167f63d23c57e12b89f49ec60962
+Author: Danil Shishkanov <shishkanov_danil@mail.ru>
+Date:   Sat Nov 9 01:12:41 2024 +0500
+
+    файл
+
+commit 8492d638ba3caed7325e53fe470bcb2433998324
+Author: Danil Shishkanov <shishkanov_danil@mail.ru>
+Date:   Sat Nov 9 01:00:32 2024 +0500
+
+    файл pre в ветке PRE
+
+commit f86be3150af98df629b8f701ba3def8f4de89a90
+Author: Danil Shishkanov <shishkanov_danil@mail.ru>
+Date:   Sat Nov 9 00:58:21 2024 +0500
+
+    файл тест в ветке тест
+
+commit 4a888658611f3455c947631100e466b96ce46c82
+Author: Danil Shishkanov <shishkanov_danil@mail.ru>
+Date:   Sat Nov 9 00:45:52 2024 +0500
+
+    игнорируются временные файлы
+
+commit 131cbc8aa3308f66679093398052f0f44ad564a8
+Author: Danil Shishkanov <shishkanov_danil@mail.ru>
+Date:   Sat Nov 9 00:20:32 2024 +0500
+
+    название аудитории
+
+commit ce5314274129ec809f74b50e45514fb9b7d3021d
+Author: Danil Shishkanov <shishkanov_danil@mail.ru>
+Date:   Sat Nov 9 00:15:07 2024 +0500
+
+    название предмета
+
+commit 561ebfbc03b720ee18838d940466ebe478e2f180
+Author: Danil Shishkanov <shishkanov_danil@mail.ru>
+Date:   Sat Nov 9 00:10:26 2024 +0500
+
+    Мой первый коммит
